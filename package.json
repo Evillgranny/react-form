@@ -19,13 +19,13 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Evillgranny/react-boilerplate.git"
+    "url": "git+https://github.com/Evillgranny/react-form.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/Evillgranny/react-boilerplate/issues"
+    "url": "https://github.com/Evillgranny/react-form/issues"
   },
-  "homepage": "https://github.com/Evillgranny/react-boilerplate#readme",
+  "homepage": "https://github.com/Evillgranny/react-form#readme",
   "devDependencies": {
     "@babel/cli": "^7.10.1",
     "@babel/core": "^7.10.2",
